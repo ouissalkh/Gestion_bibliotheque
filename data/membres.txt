@@ -1,0 +1,8 @@
+M001;Ahmed;Benali;978-0-452-28423-4,978-2-07-038917-9
+M002;Fatima;Zahra;978-0-06-772008-4
+M003;Omar;Lahlou
+M004;Yasmine;Kabbaj;978-2-07-036002-4
+M005;Hicham;EL Idrissi;
+123456799;Camil;Jida;
+M006;Imane;Bouzadi;
+M007;Nadia;Amrani;

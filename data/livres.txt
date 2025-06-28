@@ -1,0 +1,13 @@
+978-2-266-11156-4;Le Petit Prince;Antoine de Saint-Exupéry;1943;Fiction;disponible
+978-0-452-28423-4;1984;George Orwell;1949,Science_Fiction;emprunte
+978-2-07-036822-8;L'Etranger;Albert Camus;1942;Philosophie;disponible
+978-0-06-112008-4;To Kill a Mockingbird;Harper Lee;1960;Roman;emprunte
+978-2-253-07863-2;Les Misérables;Victor Hugo;1862;Classique;disponible
+978-0-14-044926-6;The Brothers Karamazov;Fiodor Dostoievski;1880;Philosophie;disponible
+978--2-07-038917-9;La Peste;Albert Camus;1947;Fiction;emprunte
+978-0-7432-7356-5;Angels & Demons;Dan Brown;2000;Thriller;disponible
+978-0-307-27778-7;Inferno;Dan Brown;2013;Thriller;disponible
+978-2-07-036002-4;Caligula;Albert Camus;1944;théatre;emprunte
+978207061258;L'Etranger;Albert Camus;1942;Philosophie;disponible
+978-2-330-13524-5;L'art de la Guerre;Sun Tzu;1988;Philosophie;disponible
+978-2-07-045678-9;Le Comte de Monte-Cristo;Alexandre Dumas;1845;Aventure;disponible

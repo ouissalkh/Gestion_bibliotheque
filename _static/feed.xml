@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title> latest updates</title>
+	<atom:link href="feed" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>latest updates from </description>
+	<language>en-gb</language>
+	
+		<item>
+		<title></title>
+		<link>&#x2f;README</link>
+		<pubDate>Sun, 22 Jun 2025 18:28:33 -0000</pubDate>
+		<guid isPermaLink="true">&#x2f;README</guid>
+		<description><![CDATA[]]></description>
+		</item>
+	
+	</channel>
+</rss>
